@@ -2,11 +2,15 @@
 
 I am a software engineer and artist based in NYC. I like to make fun, weird things with code.
 
-My technologies include:
+---
+
+**My technologies include:**
 
 Languages: JavaScript, HTML, CSS, Python
 Frameworks: React.js, Vue, Express
 Database: PostgresSQL, MongoDB, Flask
+
+---
 
 You can contact me by: [Email](anderson.hayden@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hayden-anderson-909)
 
