@@ -7,7 +7,7 @@ I am a software engineer and artist based in NYC. I like to make fun, weird thin
 My technologies include:
 
 **Languages:** JavaScript, HTML, CSS, Python
-**Frameworks:** React.js, Vue, Express
+**Frameworks:** React.js, Vue, Express, Tailwind
 **Database:** PostgresSQL, MongoDB, Flask
 
 
