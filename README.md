@@ -1,6 +1,6 @@
 ### Hi! I'm Hayden :)
 
-I am a software engineer and artist based in NYC. I like to make fun, weird things with code.
+I am a software engineer and artist based in NYC. I like to make fun things with code.
 
 
 
