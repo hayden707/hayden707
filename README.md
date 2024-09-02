@@ -1,9 +1,3 @@
-### Hi! I'm Hayden :)
-
-I am a software engineer and artist based in NYC. I like to make fun things with code.
-
-
-
 My technologies include:
 
 **Languages:** JavaScript, HTML, CSS, Python
